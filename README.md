@@ -3,4 +3,4 @@
 ----------------------------------------------------------------------------
 Revisiting the Basics of ML Algorithms 
 1. Supervised Algorithms
-
+2. Unsupervised algorithms
